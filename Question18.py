@@ -1,4 +1,4 @@
-import math
+# Question 18 : H-Index II
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
         left = 0
