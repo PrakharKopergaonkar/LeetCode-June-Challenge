@@ -1,3 +1,4 @@
+#Question 19: Longest Duplicate Substring
 class Solution:
     def RabinKarp(self,text, M, q):
         if M == 0: return True
