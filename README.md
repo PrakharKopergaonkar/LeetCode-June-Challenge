@@ -1,7 +1,7 @@
 <h1> Leet Code june challenge (2020) solutions</h1> <br>
 <p> <strong> Programming language used </strong>- Python </p>
 
-<p> LeetCode june challenge is monthly coding challenge by leetcode where you are given a new programming question every day for month.</p>
+<p> LeetCode june challenge is monthly coding challenge by leetcode where you are given a new programming question every day for the month of june.</p>
 <h3> Table of Content </h3>
 
 | Index | Name | Link |
