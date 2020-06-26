@@ -1,4 +1,4 @@
-# Question 26: Sum Root to Leaf Numbers 
+# Question 26: Sum Root to Leaf Number 
 
 # Definition for a binary tree node.
 # class TreeNode(object):

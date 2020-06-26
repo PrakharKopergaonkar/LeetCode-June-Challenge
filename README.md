@@ -1,6 +1,8 @@
 <h1> Leet Code june challenge (2020) solutions</h1> <br>
 <p> <strong> Programming language used </strong>- Python </p>
-<h3> Content </h3>
+
+<p> LeetCode june challenge is monthly coding challenge by leetcode where you are given a new programming question every day for month.</p>
+<h3> Table of Content </h3>
 
 | Index | Name | Link |
 | --------------- | --------------- | --------------- |
@@ -19,3 +21,19 @@
 | 14. | Cheapest Flights Within K Stops | [Question14.py](./Question14.py) |
 | 15. | Search in a Binary Search Tree | [Question15.py](./Question15.py) |
 | 16. | Validate IP Address | [Question16.py](./Question16.py) |
+| 17. | Surrounded Regions | [Question17.py](./Question17.py) |
+| 18. |  H-Index II | [Question18.py](./Question18.py) |
+| 19. | Longest Duplicate Substring | [Question19.py](./Question19.py) |
+| 20. | Permutation Sequence | [Question20.py](./Question20.py) |
+| 21. | Dungeon Game | [Question21.py](./Question21.py) |
+| 22. | Single Number II | [Question22.py](./Question22.py) |
+| 23. | Definition for a binary tree node | [Question23.py](./Question23.py) |
+| 24. | Unique Binary Search Trees | [Question24.py](./Question24.py) |
+| 25. | Find the Duplicate Number | [Question25.py](./Question25.py) |
+| 26. | Sum Root to Leaf Number  | [Question26.py](./Question26.py) |
+
+
+
+
+
+
