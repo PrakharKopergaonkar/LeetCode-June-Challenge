@@ -15,6 +15,7 @@
 | 7. | Coin Change II| [Question7.py](./Question7.py) |
 | 8. | Power of Two | [Question8.py](./Question8.py) |
 | 9. | Is Sequence | [Question9.py](./Question9.py) |
+| 10. | Search Insert Position | [Question10.py](./Question10.py) |
 | 11. | Sort Colors | [Question11.py](./Question11.py) |
 | 12. | Insert Delete GetRandom O(1) | [Question12.py](./Question12.py) |
 | 13. | Largest Divisible Subset | [Question13.py](./Question13.py) |
@@ -31,6 +32,7 @@
 | 24. | Unique Binary Search Trees | [Question24.py](./Question24.py) |
 | 25. | Find the Duplicate Number | [Question25.py](./Question25.py) |
 | 26. | Sum Root to Leaf Number  | [Question26.py](./Question26.py) |
+| 27. | Perfect Squares  | [Question27.py](./Question27.py) |
 
 
 
