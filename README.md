@@ -33,6 +33,7 @@
 | 25. | Find the Duplicate Number | [Question25.py](./Question25.py) |
 | 26. | Sum Root to Leaf Number  | [Question26.py](./Question26.py) |
 | 27. | Perfect Squares  | [Question27.py](./Question27.py) |
+| 28. | Reconstruct Itinerary  | [Question28.py](./Question28.py) |
 
 
 
