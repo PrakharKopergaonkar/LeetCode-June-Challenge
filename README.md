@@ -34,6 +34,7 @@
 | 26. | Sum Root to Leaf Number  | [Question26.py](./Question26.py) |
 | 27. | Perfect Squares  | [Question27.py](./Question27.py) |
 | 28. | Reconstruct Itinerary  | [Question28.py](./Question28.py) |
+| 29. | Unique Path | [Question29.py](./Question29.py)|
 
 
 
