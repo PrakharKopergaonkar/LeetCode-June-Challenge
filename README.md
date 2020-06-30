@@ -35,6 +35,7 @@
 | 27. | Perfect Squares  | [Question27.py](./Question27.py) |
 | 28. | Reconstruct Itinerary  | [Question28.py](./Question28.py) |
 | 29. | Unique Path | [Question29.py](./Question29.py)|
+| 30. | Word Search II | [Question30.py](./Question30.py)|
 
 
 
